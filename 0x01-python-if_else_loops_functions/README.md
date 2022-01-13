@@ -1,0 +1,1 @@
+This is my project on 0x01-python-if_else_loops_functions. this takes me through loops if else and functions. scripts both in c and python
